@@ -1,0 +1,166 @@
+@media only screen and (max-width: 500px){
+  .logo{
+     font-size: 8px;
+      text-align: start;
+      height: 80px;
+  }
+  
+  body{
+      text-align: center;
+  }
+
+  .box3{
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+    flex-direction: column;
+  }
+  .box2{
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+    flex-direction: column;
+  }
+  .box1{
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+    flex-direction: column;
+  }
+  .click{
+      background-color: rgb(63, 63, 219);
+      width: 22%;
+      height: 8%;
+      color: rgb(196, 187, 187);
+      padding: 3%;
+      border-radius: 8px;
+      margin-bottom: 6%;
+  }
+}
+
+.box3{
+  margin: 3%;
+  display: flex;
+  justify-content: space-around;
+}
+.love{
+  max-width: 220px;
+  max-height: 350px;
+}
+
+.footer{
+  height: fit-content;
+  background-color: rgb(31, 113, 145);
+  color: rgb(192, 96, 187); 
+}
+.photo{
+  max-width: 250px;
+  max-height: 100px;
+  border-radius: 70%;
+  margin: 8px;
+}
+
+h4{
+  padding: 25px;
+}
+
+
+hr{
+  border-top: 1px solid black;
+}
+
+body{
+  margin: 2%;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+  width: 18%;
+  margin-top: 30px;
+  margin-left: 1%;
+  height: 5%;
+}
+
+.yellow-cart{
+  width: 30px;
+  height: 20px;
+}
+
+.bag{
+  background-size: 100% 100%;
+  background-image: url("assets/kw-background.png");
+}
+.upper{  
+  padding: 25px;
+  color: rgb(28, 28, 28);
+}
+
+h1{
+  font-size: 77px
+}
+
+.cost{
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.author{
+  color: rgb(211, 170, 170);
+}
+
+.left{
+  display: flex;
+  align-items: center;
+}
+.box1{
+  flex-direction: row;
+  display: flex;
+  margin: 3%;
+  justify-content: space-around;
+}
+.novel{
+  max-width: 150px;
+  max-height: 250px;
+}
+.box2{
+  display: flex;
+  margin: 3%;
+  justify-content: space-around;
+  
+}
+.gamer{
+  max-width: 220px;
+  max-height: 350px;
+}
+
+
+.last{
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  margin-bottom: 16px;
+  margin-bottom: 7%;
+}
+
+.click{
+  background-color: rgb(79, 79, 182);
+  width: 70px;
+  height: 35px;
+  color: rgb(237, 230, 230);
+  padding: 4%;
+  border-radius: 12px;
+}
+
+.white-cart{
+  max-width: 80px;
+  text-align: center;
+  max-height: 25px;
+}
+
+
